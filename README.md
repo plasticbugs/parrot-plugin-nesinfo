@@ -10,7 +10,7 @@ If the NES plugin is on the card too, the menu asks which one should open a `.ne
 
 ## Controls
 
-There are no controls. Pick a `.nes` file in the menu and read the screen. Press RESET on the console to go back to the menu. The menu comes back on the same file, with the mapper and CRC on its bottom line.
+There are no controls. Pick a `.nes` file in the menu and read the screen. Press RESET on the console, or hold both fire buttons and \* for 2 seconds, to go back to the menu. The menu comes back on the same file, with the mapper and CRC on its bottom line.
 
 ## What the screen shows
 
